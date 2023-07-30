@@ -4,11 +4,8 @@
 **vikasipar/vikasipar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 ## ✌ About Me: 
-🎓 IT Graduate <br>🌍  I'm based in Pune, <br>🖥️  See my [PORTFOLIO](https://vikasipar.netlify.app/)  <br>🧠  Currently learning React.js<br>🤝  I'm open to collaborating on interesting projects as a developer
-<br/>
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-ipar-705b6922a/) 
+🎓 IT Graduate <br>🌍  I'm based in Pune, <br>🖥️  See my [PORTFOLIO](https://vikasipar.netlify.app/)  <br>🧠  Currently learning React.js<br>🤝  I'm open to collaborating on interesting projects as a developer<br/>
+📫 Let's connect: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-ipar-705b6922a/) 
 <br/>
 
 ## 💻 Tech Stack:
