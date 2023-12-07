@@ -6,7 +6,7 @@
 #### ✌ About Me: 
 🎓 IT Graduate <br>🌍  I'm based in Pune, <br>
 🖥️  See my [PORTFOLIO](https://vikasipar.netlify.app/)  <br>
-🧠  Currently learning Redux.<br>
+🧠  Currently learning Nodejs.<br>
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/vikas-ipar-705b6922a/) 
 <br/>
 🤝  I'm open to collaborating on interesting projects as a developer.<br/>
