@@ -5,7 +5,7 @@
 
 #### ✌ About Me: 
 🎓 IT Graduate 2023<br>🌍  I'm based in Pune, <br>
-🖥️  See my [PORTFOLIO](https://vikasipar.netlify.app/)  <br>
+🖥️  See my [PORTFOLIO](https://vikasipar.vercel.app/)  <br>
 🧠  Currently learning Nodejs.<br>
 📫 Let's connect: [LinkedIn](https://www.linkedin.com/in/vikas-ipar-705b6922a/) 
 <br/>
