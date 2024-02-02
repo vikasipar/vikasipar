@@ -11,10 +11,10 @@ Frontend Developer | 2023 Grad | Pune
 
 ### 🔗 Links
 
-[Resume](https://drive.google.com/file/d/1HkfyJbWgPgq2Zs7qGmC7s2ihSnV-vbPj/view?usp=sharing) | 
 [Portfolio](https://vikasipar.vercel.app) | 
 [LinkedIn](https://www.linkedin.com/in/vikas-ipar-705b6922a/) | 
-[Twitter](https://twitter.com/vikas_ipar?t=xdfw_bSJLdFN8dykcCSWZw&s=08) 
+[Twitter](https://twitter.com/vikas_ipar?t=xdfw_bSJLdFN8dykcCSWZw&s=08) |
+[Medium](https://medium.com/@vikasipar) 
 
  I'm open to collaborating on interesting projects as a developer.
 
