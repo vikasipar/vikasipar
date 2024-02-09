@@ -6,7 +6,7 @@ Frontend Developer | 2023 Grad | Pune
 ### 🛠 Skills
 **Web Technologies-** HTML5, CSS3, Node.js \
 **Programming Languages-** JavaScript, C language, C++, PHP \
-**Libraries/Frameworks-** React, Tailwind CSS, Redux, Recoil, Framer Motion, Express.js \
+**Libraries/Frameworks-** React, Tailwind CSS, Redux, Recoil, Framer Motion \
 **Databases/Tools-** MySQL, Firebase, Git 
 
 ### 🔗 Links
@@ -14,7 +14,7 @@ Frontend Developer | 2023 Grad | Pune
 [Portfolio](https://vikasipar.vercel.app) | 
 [LinkedIn](https://www.linkedin.com/in/vikas-ipar-705b6922a/) | 
 [Twitter](https://twitter.com/vikas_ipar?t=xdfw_bSJLdFN8dykcCSWZw&s=08) |
-[Medium](https://medium.com/@vikasipar) 
+[Blog](https://medium.com/@vikasipar) 
 
  I'm open to collaborating on interesting projects as a developer.
 
