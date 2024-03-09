@@ -11,7 +11,7 @@ Frontend Developer | 2023 Grad | Pune
 
 ### 🔗 Links
 
-[Portfolio](https://vikasipar.vercel.app) | 
+[Portfolio](https://www.vikasipar.me) | 
 [LinkedIn](https://www.linkedin.com/in/vikas-ipar-705b6922a/) | 
 [Twitter](https://twitter.com/vikas_ipar?t=xdfw_bSJLdFN8dykcCSWZw&s=08) |
 [Blog](https://medium.com/@vikasipar) 
