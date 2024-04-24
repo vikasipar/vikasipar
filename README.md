@@ -19,14 +19,15 @@ Frontend Developer | 2023 Grad | Pune
  I'm open to collaborating on interesting projects as a developer.
 
 
-
-<!--
-## 🔥 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=vikasipar&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=vikasipar&theme=city_light&hide_border=false)<br/>
 <br/>
 
+## 🔥 GitHub Stats:
+<!--
+![](https://github-readme-stats.vercel.app/api?username=vikasipar&theme=city_light&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=vikasipar&theme=city_light&hide_border=false)<br/>
+-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vikasipar&theme=city_light&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <br/>
 ---
+<!--
 [![](https://visitcount.itsvg.in/api?id=vikasipar&icon=1&color=12)](https://visitcount.itsvg.in) -->
