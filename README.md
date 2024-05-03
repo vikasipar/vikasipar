@@ -1,13 +1,13 @@
 ## Hi, I'm Vikas! 👋
 
-Frontend Developer | 2023 Grad | Pune
+Frontend Developer | Freelancer  
 
 
 ### 🛠 Skills
 **Web Technologies-** HTML5, CSS3, Node.js \
 **Programming Languages-** JavaScript, C language, C++, PHP \
-**Libraries/Frameworks-** React, Tailwind CSS, Redux, Recoil, Framer Motion \
-**Databases/Tools-** MySQL, Firebase, Git 
+**Libraries/Frameworks-** React, Tailwind CSS, Redux, Recoil, Framer Motion, GSAP \
+**Databases/Tools-** MySQL, Firebase, GitHub 
 
 ### 🔗 Links
 
